@@ -1,6 +1,6 @@
 # Bank Account Management System
 
-> A Spring Boot backend project demonstrating clean architecture, transactional business logic, and REST API design. Built as a portfolio project for Software Developer / Full‑Stack internship applications.
+> A Spring Boot REST API implementing banking account management with transactional consistency and layered architecture.
 
 ---
 
