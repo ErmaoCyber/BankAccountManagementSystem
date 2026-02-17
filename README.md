@@ -79,26 +79,9 @@ Business Rules:
 ### Steps
 
 ```bash
-<<<<<<< Updated upstream
-git clone https://github.com/ErmaoCyber/meeting-room-reservation-api.git
-cd MeetingRoomBooking
-```
-
-Restore packages:
-
-```bash
-dotnet restore
-```
-
-Run the API:
-
-```bash
-dotnet run
-=======
 git clone https://github.com/ErmaoCyber/bank-account-service-api.git
 cd bank-account-service-api
 mvn spring-boot:run
->>>>>>> Stashed changes
 ```
 
 The application will start on a local development port.  
@@ -166,4 +149,3 @@ From Swagger you can:
 <img src="images/swagger.png" width="900" alt="Swagger UI preview">
 
 ---
-
